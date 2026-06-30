@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#2D3142"/>
+  <g transform="translate(256, 240)">
+    <!-- Checkmark circle -->
+    <circle cx="0" cy="0" r="120" fill="none" stroke="#4A6FA5" stroke-width="24"/>
+    <polyline points="-50,10 -10,50 60,-40" fill="none" stroke="#8CB88A" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Bottom bar -->
+  <rect x="120" y="400" width="272" height="16" rx="8" fill="#4A6FA5" opacity="0.6"/>
+  <rect x="120" y="432" width="180" height="12" rx="6" fill="#4A6FA5" opacity="0.3"/>
+</svg>
